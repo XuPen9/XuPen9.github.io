@@ -2,9 +2,9 @@
 title: ESP32-Abstract
 toc: true
 date: 2024-03-28 23:07:19
-tags: Espressif
+tags: ESP32_Series
 categories: 
-	- Espressif
+	- ESPRESSIF
 	- ESP32_Series
 ---
 

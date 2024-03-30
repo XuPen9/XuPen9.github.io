@@ -3,17 +3,17 @@
 # ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: XuPeng's PAGE
-subtitle:
-description:
-keywords:
+title: XuPeng's Wiki
+subtitle: Coding
+description: My Coding
+#keywords:
 author: Xu Peng
 language: en
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://xupen9.cn
+url: https://xupen9.cn/
 root: /
 permalink: wiki/:title/
 permalink_defaults:
@@ -51,6 +51,12 @@ highlight:
 ## https://github.com/hexojs/hexo-renderer-marked
 marked:
   gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
 
 ## Plugins: https://hexo.io/plugins/
 ### JsonContent
@@ -79,7 +85,7 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - xupen9.cn # eg: zthxxx.me  
+    - xupen9.cn
 
 ## https://github.com/zthxxx/hexo-directory-category
 auto_dir_categorize:

@@ -2,7 +2,7 @@
 title: STM8_Abstract
 toc: true
 date: 2024-03-28 23:05:10
-tags: STMicroelectronics
+tags: STM8_Series
 categories: 
 	- STMicroelectronics
 	- STM8_Series
@@ -47,10 +47,8 @@ Configure easily your STM8 MCU using our free configuration tool with user-frien
 
 - STM32的某些低端芯片价格足够低廉……用来替换STM8使用，大部分场景是可以的。
 - 国产的 32 位单片机也行，但是有点大材小用了。**平移替换某些型号的 STM32 问题不大。**
-- STC芯片 -> 一个神奇的国产厂商 [国芯论坛 - STC全球32位8051爱好者互助交流社区 (stcaimcu.com)](https://www.stcaimcu.com/)
+- STC芯片 -> 一个神奇的国产厂商   [深圳国芯人工智能有限公司 (stcai.com)](https://www.stcai.com/)
 - ……
-
-
 
 
 
