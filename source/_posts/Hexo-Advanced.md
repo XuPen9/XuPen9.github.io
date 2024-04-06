@@ -1,5 +1,5 @@
 ---
-title: Hexo_Advanced
+title: Hexo-Advanced
 toc: true
 date: 2024-03-10 20:08:37
 tags: Hexo

@@ -1,5 +1,5 @@
 ---
-title: STM32_Abstract
+title: STM32-Abstract
 toc: true
 date: 2024-03-28 23:01:27
 tags: STM32_Series
@@ -10,9 +10,9 @@ categories:
 
 
 
-# S T M 3 2
+<img src="STM32-Abstract/ST.gif" style="zoom: 75%;" />
 
-![ST](STM32-Abstract/ST.gif)
+***
 
 ![STM32_MCU_01](STM32-Abstract/STM32_MCU_01.png)
 

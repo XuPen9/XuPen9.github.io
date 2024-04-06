@@ -1,11 +1,11 @@
 ---
-title: FPGA_INTEL
+title: INTEL-Abstract
 toc: true
 date: 2024-03-31 00:15:23
 tags: INTEL
 categories:
 	- FPGA
-	- INTEL
+	- INTEL_Series
 ---
 
 
