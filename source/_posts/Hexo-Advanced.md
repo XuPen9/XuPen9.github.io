@@ -1,9 +1,10 @@
 ---
 title: Hexo-Advanced
 toc: true
-date: 2024-03-10 20:08:37
+date: 2024-03-10 21:08:37
 tags: Hexo
-categories: Hexo
+categories: 
+	- (Brilliant)Hexo
 ---
 
 

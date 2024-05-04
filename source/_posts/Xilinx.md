@@ -1,10 +1,10 @@
 ---
-title: AMD-Abstract
+title: Xilinx
 toc: true
 date: 2024-03-31 00:15:23
 tags: AMD
 categories:
-	- FPGA
+	- (Brilliant)FPGA
 	- AMD_Series
 ---
 

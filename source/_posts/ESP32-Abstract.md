@@ -4,7 +4,7 @@ toc: true
 date: 2024-03-28 23:07:19
 tags: ESP32_Series
 categories: 
-	- ESPRESSIF
+	- (Brilliant)ESPRESSIF
 	- ESP32_Series
 ---
 

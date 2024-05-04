@@ -4,7 +4,7 @@ toc: true
 date: 2024-03-28 23:05:10
 tags: STM8_Series
 categories: 
-	- STMicroelectronics
+	- (Brilliant)STMicroelectronics
 	- STM8_Series
 ---
 

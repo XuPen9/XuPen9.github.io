@@ -1,10 +1,10 @@
 ---
-title: INTEL-Abstract
+title: Altera
 toc: true
 date: 2024-03-31 00:15:23
 tags: INTEL
 categories:
-	- FPGA
+	- (Brilliant)FPGA
 	- INTEL_Series
 ---
 

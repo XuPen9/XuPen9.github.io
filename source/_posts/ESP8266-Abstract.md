@@ -4,7 +4,7 @@ toc: true
 date: 2024-03-10 20:10:44
 tags: ESP8266_Series
 categories: 
-	- ESPRESSIF
+	- (Brilliant)ESPRESSIF
 	- ESP8266_Series
 ---
 

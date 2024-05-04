@@ -4,7 +4,7 @@ toc: true
 date: 2024-03-28 23:01:27
 tags: STM32_Series
 categories: 
-	- STMicroelectronics
+	- (Brilliant)STMicroelectronics
 	- STM32_Series
 ---
 
