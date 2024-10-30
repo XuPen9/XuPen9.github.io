@@ -1,0 +1,36 @@
+{
+  "name": "xblog",
+  "description": "xVueBlog",
+  "version": "2.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-webpack build src",
+    "docs:clean-dev": "vuepress-webpack dev src --clean-cache",
+    "docs:dev": "vuepress-webpack dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-webpack": "2.0.0-rc.18",
+    "@vuepress/plugin-shiki": "^2.0.0-rc.57",
+    "@vuepress/plugin-watermark": "^2.0.0-rc.57",
+    "chart.js": "^4.4.6",
+    "echarts": "^5.5.1",
+    "flowchart.ts": "^3.0.1",
+    "markmap-lib": "^0.17.2",
+    "markmap-toolbar": "^0.17.2",
+    "markmap-view": "^0.17.2",
+    "mathjax-full": "^3.2.2",
+    "mermaid": "^11.3.0",
+    "sass-embedded": "^1.79.5",
+    "sass-loader": "^16.0.2",
+    "vue": "^3.5.12",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-plugin-search-pro": "^2.0.0-rc.59",
+    "vuepress-theme-hope": "2.0.0-rc.59"
+  },
+  "dependencies": {
+    "artplayer": "^5.2.1",
+    "vidstack": "^1.12.12"
+  }
+}
