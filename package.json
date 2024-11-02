@@ -12,6 +12,8 @@
   },
   "devDependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.18",
+    "@vuepress/plugin-notice": "^2.0.0-rc.57",
+    "@vuepress/plugin-photo-swipe": "^2.0.0-rc.57",
     "@vuepress/plugin-shiki": "^2.0.0-rc.57",
     "@vuepress/plugin-watermark": "^2.0.0-rc.57",
     "chart.js": "^4.4.6",

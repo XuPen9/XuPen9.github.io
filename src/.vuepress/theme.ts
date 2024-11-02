@@ -42,7 +42,7 @@ export default hopeTheme({
       footer:
         '主题使用 <a href="https://theme-hope.vuejs.press/zh/">VuePress Theme Hope</a> | <a href="https://mister-hope.com/about/site.html" target="_blank">关于网站</a>',
 
-      copyright: "基于 MIT 协议，© 2019-至今 Mr.Hope",
+      copyright: "基于 MIT 协议 | © 2019-至今 Mr.Hope",
 
       // page meta
       metaLocales: {
@@ -62,7 +62,7 @@ export default hopeTheme({
       footer:
         'Theme by <a href="https://theme-hope.vuejs.press">vuepress-theme-hope</a>',
 
-      copyright: "MIT Licensed, © 2019-present Mr.Hope",
+      copyright: "MIT Licensed | © 2019-present Mr.Hope",
 
       metaLocales: {
         editLink: "Edit this page on GitHub",
@@ -122,6 +122,8 @@ export default hopeTheme({
     },
 
     searchPro: true,
+
+    photoSwipe: true,
 
     // Code Color Set
     shiki: {
