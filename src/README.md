@@ -1,22 +1,14 @@
 ---
 home: true
 icon: home
-title: 项目主页
-heroImage: /assets/icon/xBrain.png
+title: 网站首页
+heroImage: /xupen9.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: XuPen9's WEBPAGE
-tagline: 这是一个个人网站。
-actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
-    type: primary
-
-  - text: 文档
-    link: ./guide/
+heroText: x WEBPAGE
+tagline: 先随便写一些东西
 
 highlights:
   - header: 易于安装
