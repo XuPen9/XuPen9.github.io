@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: x WEBPAGE
-tagline: 先随便写一些东西
+tagline: 先随便写一些东西吧,省的空空的
 
 highlights:
   - header: 易于安装
